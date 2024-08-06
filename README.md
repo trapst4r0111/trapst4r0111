@@ -1,4 +1,4 @@
-## idk what im doing but haiii :3
+## me
  <div>
    <a href="https://github.com/trapst4r0111">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=trapst4r0111&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
