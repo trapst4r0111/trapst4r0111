@@ -1,16 +1,16 @@
-## Hi there 👋
+## idk what im doing but haiii :3
+ <div>
+   <a href="https://github.com/trapst4r0111">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=trapst4r0111&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+</div>
+ 
 
-<!--
-**trapst4r0111/trapst4r0111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### i dont kno how to code yet so nothing here
+### u can also find/add me on:
+ 
+<div> 
+  <a href="https://steamcommunity.com/id/45554546/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white" target="_blank"></a>
+  <br>
+ <a href="https://discordapp.com/users/284741380033740801/"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white"></a>
+  <br>
+ <a href="https://soundcloud.com/d347w15h"><img src="https://img.shields.io/badge/Soundcloud-FF3300?logo=Soundcloud&logoColor=white"></a>
