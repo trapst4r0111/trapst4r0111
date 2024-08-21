@@ -5,7 +5,7 @@
 </div>
  
 
-### i dont kno how to code yet so nothing here
+### i dont rly know how to code yet so nothing here
 ### u can also find/add me on:
  
 <div> 
