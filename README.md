@@ -5,7 +5,8 @@
 </div>
  
 
-### i dont rly know how to code yet so nothing here
+### i dont rly know how to code yet so almost nothing here
+### main page: https://trapst4r0111.github.io/
 ### u can also find/add me on:
  
 <div> 
